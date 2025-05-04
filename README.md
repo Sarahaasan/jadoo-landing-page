@@ -1,4 +1,4 @@
-<h1>Project Name</h1>
+<h1>Jadoo Landing Page</h1>
 
 <h2>Description</h2>
 <p>
