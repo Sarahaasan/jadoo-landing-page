@@ -44,10 +44,10 @@
 <ul>
     <li>A <strong>top navigation bar</strong> using the <code>&lt;nav&gt;</code> tag.</li>
     <li>A dynamic <strong>hero section</strong> with a call-to-action button and <code>&lt;section&gt;</code> tags.</li>
-    <li>An <strong>offer section</strong> showcasing services using the <code>&lt;article&gt;</code> and <code>&lt;section&gt;</code> tags.</li>
+    <li>An <strong>offer section</strong> showcasing services using the <code></code> and <code>&lt;section&gt;</code> tags.</li>
     <li>A <strong>top destinations</strong> card layout with <code>&lt;section&gt;</code> for grouping destination content.</li>
     <li>A <strong>booking section</strong> with progress bars and icons utilizing flexbox.</li>
-    <li><strong>Testimonials & Partners</strong> sections displayed using <code>&lt;section&gt;</code> and <code>&lt;article&gt;</code> tags.</li>
+    <li><strong>Testimonials & Partners</strong> sections displayed using <code>&lt;section&gt;</code> and <code></code> tags.</li>
 </ul>
 <p>You can modify the content, add your own images, and change the text to suit your needs.</p>
 
