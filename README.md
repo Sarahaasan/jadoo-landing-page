@@ -51,12 +51,6 @@
 </ul>
 <p>You can modify the content, add your own images, and change the text to suit your needs.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
-<h2>Contact</h2>
-<p>For any questions or feedback, please contact:</p>
-<ul>
-    <li>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></li>
-    <li>GitHub: <a href="https://github.com/yourusername">https://github.com/yourusername</a></li>
+
 </ul>
